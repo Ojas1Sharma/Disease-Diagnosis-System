@@ -1,0 +1,11 @@
+age
+gender
+total_Bilurubin
+Direct_Bilurubin
+Alkaline_Phosphotase
+Alamine_Aminotransferase
+Aspartate_Aminotransferace
+Total_Proteins
+Albumin
+Albumin_and_Globulin_Ratio
+Liver_Problem
