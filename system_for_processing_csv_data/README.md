@@ -47,6 +47,6 @@ Please fork this project and send us a pull request.
 
 ## Authors
 
-* **Arjun Adhikari**
+* **Ojas Sharma**, **Chiranjeev Singh**, **Harneet Kaur**, **Prasoon Jain** *
 
 
